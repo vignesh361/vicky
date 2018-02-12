@@ -1,0 +1,149 @@
+{
+ "query": {
+  "count": 1,
+  "created": "2018-02-12T05:06:49Z",
+  "lang": "en-US",
+  "results": {
+   "channel": {
+    "units": {
+     "distance": "mi",
+     "pressure": "in",
+     "speed": "mph",
+     "temperature": "F"
+    },
+    "title": "Yahoo! Weather - Nome, AK, US",
+    "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2460286/",
+    "description": "Yahoo! Weather for Nome, AK, US",
+    "language": "en-us",
+    "lastBuildDate": "Sun, 11 Feb 2018 08:06 PM AKST",
+    "ttl": "60",
+    "location": {
+     "city": "Nome",
+     "country": "United States",
+     "region": " AK"
+    },
+    "wind": {
+     "chill": "23",
+     "direction": "135",
+     "speed": "18"
+    },
+    "atmosphere": {
+     "humidity": "95",
+     "pressure": "998.0",
+     "rising": "0",
+     "visibility": "10.5"
+    },
+    "astronomy": {
+     "sunrise": "10:12 am",
+     "sunset": "6:21 pm"
+    },
+    "image": {
+     "title": "Yahoo! Weather",
+     "width": "142",
+     "height": "18",
+     "link": "http://weather.yahoo.com",
+     "url": "http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"
+    },
+    "item": {
+     "title": "Conditions for Nome, AK, US at 07:00 PM AKST",
+     "lat": "64.499474",
+     "long": "-165.405792",
+     "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2460286/",
+     "pubDate": "Sun, 11 Feb 2018 07:00 PM AKST",
+     "condition": {
+      "code": "26",
+      "date": "Sun, 11 Feb 2018 07:00 PM AKST",
+      "temp": "32",
+      "text": "Cloudy"
+     },
+     "forecast": [
+      {
+       "code": "16",
+       "date": "11 Feb 2018",
+       "day": "Sun",
+       "high": "33",
+       "low": "26",
+       "text": "Snow"
+      },
+      {
+       "code": "26",
+       "date": "12 Feb 2018",
+       "day": "Mon",
+       "high": "30",
+       "low": "22",
+       "text": "Cloudy"
+      },
+      {
+       "code": "16",
+       "date": "13 Feb 2018",
+       "day": "Tue",
+       "high": "32",
+       "low": "21",
+       "text": "Snow"
+      },
+      {
+       "code": "34",
+       "date": "14 Feb 2018",
+       "day": "Wed",
+       "high": "28",
+       "low": "17",
+       "text": "Mostly Sunny"
+      },
+      {
+       "code": "30",
+       "date": "15 Feb 2018",
+       "day": "Thu",
+       "high": "22",
+       "low": "12",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "30",
+       "date": "16 Feb 2018",
+       "day": "Fri",
+       "high": "14",
+       "low": "10",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "14",
+       "date": "17 Feb 2018",
+       "day": "Sat",
+       "high": "31",
+       "low": "15",
+       "text": "Snow Showers"
+      },
+      {
+       "code": "23",
+       "date": "18 Feb 2018",
+       "day": "Sun",
+       "high": "33",
+       "low": "28",
+       "text": "Breezy"
+      },
+      {
+       "code": "5",
+       "date": "19 Feb 2018",
+       "day": "Mon",
+       "high": "35",
+       "low": "25",
+       "text": "Rain And Snow"
+      },
+      {
+       "code": "5",
+       "date": "20 Feb 2018",
+       "day": "Tue",
+       "high": "34",
+       "low": "33",
+       "text": "Rain And Snow"
+      }
+     ],
+     "description": "<![CDATA[<img src=\"http://l.yimg.com/a/i/us/we/52/26.gif\"/>\n<BR />\n<b>Current Conditions:</b>\n<BR />Cloudy\n<BR />\n<BR />\n<b>Forecast:</b>\n<BR /> Sun - Snow. High: 33Low: 26\n<BR /> Mon - Cloudy. High: 30Low: 22\n<BR /> Tue - Snow. High: 32Low: 21\n<BR /> Wed - Mostly Sunny. High: 28Low: 17\n<BR /> Thu - Partly Cloudy. High: 22Low: 12\n<BR />\n<BR />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2460286/\">Full Forecast at Yahoo! Weather</a>\n<BR />\n<BR />\n<BR />\n]]>",
+     "guid": {
+      "isPermaLink": "false"
+     }
+    }
+   }
+  }
+ }
+}
